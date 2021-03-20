@@ -1,0 +1,17 @@
+
+==student login 1====
+username:maria
+password:123
+
+==student login 2====
+username:nel
+password:123
+
+==student login 3====
+username:nario
+password:123
+
+
+
+Just login to each of them.
+
